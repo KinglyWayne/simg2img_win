@@ -1,7 +1,7 @@
 simg2img_win
 ============
 
-simg2img for windows
+simg2img for windows users
 
 This is a simple tool for android romer to convert simg to ext4.img.
 
